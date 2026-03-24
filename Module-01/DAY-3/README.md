@@ -53,7 +53,8 @@ public class Demo
 
 ## OUTPUT:
 
-<img width="1008" height="454" alt="image" src="https://github.com/user-attachments/assets/e6579bda-6aff-4bbb-ae94-71d7fca36641" />
+<img width="1008" height="454" alt="image" src="https://github.com/user-attachments/assets/18087be6-fc93-4418-80c1-b03bc608fbd6" />
+
 
 
 ## RESULT:
