@@ -26,8 +26,8 @@ To Create a java program to display name and location of the employee and use th
  ```
 /*
 Program to implement a Data Hiding & Encapsulation using Java
-Developed by: Ramya S
-RegisterNumber:  212222040130
+Developed by: DINESH M
+RegisterNumber:  212222043002
 */
 ```
 
